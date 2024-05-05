@@ -1,5 +1,5 @@
 # f1c100s
-
+```
 .
 ├── app                 //应用
   ├── lvgl8.3           //lvgl
@@ -10,5 +10,5 @@
 ├── linux-nano-5.2-tf   //kernel
 ├── patch               //别人的补丁，音频和usb
 ├── u-boot              //bootlodar
-
+```
 随便瞎搞
