@@ -1,0 +1,1 @@
+cmd_/home/lmnb/f1c100s/linux/app/ns2009/ns2009_drv.ko := arm-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds  --build-id  -o /home/lmnb/f1c100s/linux/app/ns2009/ns2009_drv.ko /home/lmnb/f1c100s/linux/app/ns2009/ns2009_drv.o /home/lmnb/f1c100s/linux/app/ns2009/ns2009_drv.mod.o ;  true

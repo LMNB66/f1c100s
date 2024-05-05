@@ -1,0 +1,1 @@
+cmd_/home/lmnb/f1c100s/drv/lora/lora.ko := arm-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds  --build-id  -o /home/lmnb/f1c100s/drv/lora/lora.ko /home/lmnb/f1c100s/drv/lora/lora.o /home/lmnb/f1c100s/drv/lora/lora.mod.o ;  true
